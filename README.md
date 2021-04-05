@@ -46,5 +46,5 @@ I would really like to not use media query for developing mobile-size display. I
 
 ## Author
 
-- Website - Khush Jain
+- Github - [Khush Jain](https://github.com/khush-01)
 - Frontend Mentor - [@khush-01](https://www.frontendmentor.io/profile/khush-01)
