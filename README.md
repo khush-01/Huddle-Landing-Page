@@ -24,7 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Huddle Landing Page](https://github.com/khush-01/Huddle-Landing-Page)
+- Live Site URL: [Huddle Live Site](https://khush-01.github.io/Huddle-Landing-Page/)
 
 ## My process
 
